@@ -1,4 +1,5 @@
-## Hi there 👋
+<img width="2125" height="575" alt="banner" src="https://github.com/user-attachments/assets/8873303a-503f-4b1b-9967-dc27fda4c598" />
+
 
 <!--
 **lizbethtg/lizbethtg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
