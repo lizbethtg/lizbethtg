@@ -1,11 +1,4 @@
-<!-- ENCABEZADO CON ONDA DIVERGENTE CUTE & MODERNA -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=26,18,37,42,21,55&height=220&section=header&text=✨%20Lizbeth%20TG%20✨&fontSize=48&fontColor=FF79C6&fontAlignY=38&animation=twinkle" width="100%" />
 
-  <!-- SUBTÍTULO FLUIDO CON FUENTE MODERNA -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=20&pause=1000&color=F8F8F2&center=true&vCenter=true&width=500&lines=Frontend+Developer+%E2%9C%A8;Creating+Interactive+Webs+%F0%9F%8C%B8;Design+%26+Code+%F0%9F%A7%A7" alt="Typing SVG" />
-  </a>
 
   <!-- REDES Y CONTACTO CON ÍCONOS ESTILIZADOS -->
   <p align="center">
